@@ -29,6 +29,8 @@ In order to learn a discrete latent representation, ideas from vector quantisati
 <img src="https://github.com/BhanuPrakashPebbeti/Image-Generation-Using-VQVAE/blob/main/reconstructions/reconstructions-7.jpeg" width="500" height="500">
 
 ## Generated Images using Trained vqvae decoder and GPT prior
-<img src="https://github.com/BhanuPrakashPebbeti/Image-Generation-Using-VQVAE/blob/main/generations/generations-1.jpeg" width="300" height="300">  <img src="https://github.com/BhanuPrakashPebbeti/Image-Generation-Using-VQVAE/blob/main/generations/generations-3.jpeg" width="300" height="300">  <img src="https://github.com/BhanuPrakashPebbeti/Image-Generation-Using-VQVAE/blob/main/generations/generations-6.jpeg" width="300" height="300">
+<img src="https://github.com/BhanuPrakashPebbeti/Image-Generation-Using-VQVAE/blob/main/generations/generations-1.jpeg" width="300" height="300">  <img src="https://github.com/BhanuPrakashPebbeti/Image-Generation-Using-VQVAE/blob/main/generations/generations-3.jpeg" width="300" height="300"> 
 
-<img src="https://github.com/BhanuPrakashPebbeti/Image-Generation-Using-VQVAE/blob/main/generations/generations-4.jpeg" width="300" height="300">  <img src="https://github.com/BhanuPrakashPebbeti/Image-Generation-Using-VQVAE/blob/main/generations/generations-11.jpeg" width="300" height="300">  <img src="https://github.com/BhanuPrakashPebbeti/Image-Generation-Using-VQVAE/blob/main/generations/generations-9.jpeg" width="300" height="300">
+<img src="https://github.com/BhanuPrakashPebbeti/Image-Generation-Using-VQVAE/blob/main/generations/generations-6.jpeg" width="300" height="300">  <img src="https://github.com/BhanuPrakashPebbeti/Image-Generation-Using-VQVAE/blob/main/generations/generations-4.jpeg" width="300" height="300"> 
+
+<img src="https://github.com/BhanuPrakashPebbeti/Image-Generation-Using-VQVAE/blob/main/generations/generations-11.jpeg" width="300" height="300">  <img src="https://github.com/BhanuPrakashPebbeti/Image-Generation-Using-VQVAE/blob/main/generations/generations-9.jpeg" width="300" height="300">
